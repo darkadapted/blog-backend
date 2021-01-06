@@ -1,0 +1,14 @@
+{
+  "kind": "collectionType",
+  "collectionName": "journal_infos",
+  "info": {
+    "name": "JournalInfo",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {}
+}
